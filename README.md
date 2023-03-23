@@ -25,10 +25,10 @@ Hemel X Meme <img src="https://emojis.slackmojis.com/emojis/images/1588315024/88
  pip install futures
  pip install mechanize
  cd $HOME 
- rm -rf Stylish-BANNER
- git clone https://github.com/U7P4L-IN/OP-BANNER.git
+ rm -rf test-1-Stylish-Banner-
+ git clone https://github.com/HemelxMeme/test-1-Stylish-Banner-.git
 
- cd Stylish-BANNER
+ cd test-1-Stylish-Banner-
 
  ls
 
