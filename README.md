@@ -43,4 +43,4 @@ Hemel X Meme <img src="https://emojis.slackmojis.com/emojis/images/1588315024/88
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=OP-BANNER&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
-## Thanks For Visiting (Yo)
+## Thanks For Visiting (Y o)
