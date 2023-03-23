@@ -1,10 +1,6 @@
 Welcome Guys
 --------|
-![](
-
 https://user-images.githubusercontent.com/128691505/227173234-e0acde38-b15b-4ffe-98d4-46b71039c7fd.mp4
-
-)
 
 
 
