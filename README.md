@@ -1,8 +1,12 @@
 Welcome Guys
---------|![](
-https://user-images.githubusercontent.com/128691505/227173234-e0acde38-b15b-4ffe-98d4-46b71039c7fd.mp4
+--------|
+![](
+
+https://user-images.githubusercontent.com/128691505/227174669-18c7bdac-1175-4f9d-b663-c97aa2d26df5.mp4
 
 )
+
+
 
 AUTHOR:
 <p align="center">
@@ -13,9 +17,8 @@ Hemel X Meme <img src="https://emojis.slackmojis.com/emojis/images/1588315024/88
       Tarmux Stylish Op banner Header..
 
 </p>
-  
+
 #### INSTALL TOOL ON TERMUX
-```python
 pkg update
 pkg upgrade
 pkg install python
@@ -30,10 +33,10 @@ git clone https://github.com/HemelxMeme/test-1-Stylish-Banner-.git
 cd test-1-Stylish-Banner-
 ls
 python2 Stylish-Banner.py
-```
+
 #### Screenshots:
 
-<p align="center"><img src="https://github.com/U7P4L-IN/OP-BANNER/blob/main/IMG_20230322_114210.jpg">
+<p align="center"><img src="https://github.com/U7P4L-IN/OP-BANNER/blob/main/IMG_20230322_114210.jpg%22%3E
 
 
 #### Tools Languages :
